@@ -1,2 +1,2 @@
 # Desarrollo-Web_Practices
-Recpositorio para crear practicas en el desarrollo web
+Repositorio para crear practicas en el desarrollo web
